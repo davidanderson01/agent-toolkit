@@ -10,7 +10,7 @@ dependencies = [
     "openai-agents==0.0.2",
     "stripe-agent-toolkit>=0.6.0",
     "stripe>=7.0.0",
-    "urllib3<2.0.0",
+    "urllib3<3.0.0",
     "markdown==3.7"
 ]
 
